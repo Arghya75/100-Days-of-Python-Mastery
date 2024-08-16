@@ -8,8 +8,8 @@ I created this repository to track my growth and improvements in Python programm
 I've committed to completing 100 Python projects, starting with simple tasks and gradually increasing in difficulty. Each project is contained in its folder, and within each folder, you'll find a `README.txt` file that explains what the project is about. 
 
 ### Project Structure
-🟢 **Beginner Projects:** Basic concepts like printing, arithmetic operations, and conditionals.
-🟡 **Intermediate Projects:** Complex algorithms, data structures, and real-world applications.
+🟢 **Beginner Projects:** Basic concepts like printing, arithmetic operations, and conditionals.  
+🟡 **Intermediate Projects:** Complex algorithms, data structures, and real-world applications.  
 🔴 **Advanced Projects:** Advanced concepts and techniques to challenge and refine your skills.
 
 ## Contributing
